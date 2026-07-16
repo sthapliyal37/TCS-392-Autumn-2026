@@ -98,19 +98,6 @@
 
 ---
 
-# Continuous Internal Evaluation (CIE)
-
-| Component | Lecture | Marks |
-|----------|:-------:|:----:|
-| Quiz I | 11 | 5 |
-| Assignment | 12 | 5 |
-| Class Test I | 23 | 10 |
-| Quiz II | 34 | 5 |
-| Class Test II | 44 | 10 |
-| Attendance & Participation | Throughout | 5 |
-
----
-
 # Programming Demonstrations
 
 - Caesar Cipher
@@ -127,20 +114,6 @@
 
 ---
 
-# Learning Outcomes
-
-After successful completion of this course, students will be able to:
-
-- Explain computer and network security concepts.
-- Analyze classical cryptographic techniques.
-- Apply symmetric key cryptographic algorithms.
-- Implement mathematical concepts used in cryptography.
-- Understand public key cryptography and RSA.
-- Explain message authentication and hash functions.
-- Analyze malware, intrusion detection systems, and firewalls.
-- Understand cybercrime, privacy, ethics, and intellectual property.
-
----
 
 # Recommended Books
 
@@ -155,6 +128,3 @@ After successful completion of this course, students will be able to:
 2. Atul Kahate, **Cryptography and Network Security**, McGraw Hill Education, 3rd Edition.
 
 ---
-
-**Department of Computer Science & Engineering**  
-**Graphic Era (Deemed to be University), Dehradun**
